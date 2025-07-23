@@ -40,8 +40,8 @@
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shende-pooja/)
-- 📧 Email: your.email@example.com
+- 💼 https://www.linkedin.com/in/shende-pooja
+- 📧 Email: poojashende896@gmail.com
 
 ---
 
