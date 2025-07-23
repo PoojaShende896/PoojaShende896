@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pooja Shende</h1>
-<h3 align="center">Data & Business Intelligence Enthusiast | Power BI | SQL | Excel | DAX</h3>
+<h3 align="center">Data & Business Intelligence Enthusiast | Power BI | SQL | Excel | DAX | Python </h3>
 
 ---
 
