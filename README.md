@@ -14,7 +14,7 @@
 
 ### 🚀 Projects
 
-#### 📌 [Power BI Sales Dashboard](https://github.com/p629/Sales-Data-)
+#### 📌 [Power BI Sales Dashboard](https://github.com/PoojaShende896/Sales-Data-)
 
 > A fully interactive sales analysis dashboard built using Power BI  
 > 📁 File: `First Assignment.pbix`  
@@ -26,21 +26,21 @@
 
 | Power BI | SQL | Excel | Python | DAX |
 |----------|-----|-------|--------|-----|
-| ✅       | ✅  | ✅    | ⚪     | ✅  |
+| ✅       | ✅  | ✅    | ✅     | ✅  |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=p629&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PoojaShende896&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shende-pooja/)
 - 📧 Email: your.email@example.com
 
 ---
